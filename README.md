@@ -1,6 +1,6 @@
 #### Hi there! 👋
 
-I'm [Saeid shirazi](https://saeidshirazi.github.io/), research MSc in E-Commerse at [IUST](https://iust.ac.ir/en) , supervised by <a href="http://www.researchgate.net/profile/mohammad-fathian" target="_blank">Dr mohammad fathian</a>. My research interests particularly include smart contract security, Iot Security, Sachine learning and Information Security.
+I'm [Saeid shirazi](https://saeidshirazi.github.io/), research MSc in E-Commerse at [IUST](https://iust.ac.ir/en) , supervised by <a href="http://www.researchgate.net/profile/mohammad-fathian" target="_blank">Dr mohammad fathian</a>. My research interests particularly include smart contract security, Iot Security, Machine learning and Information Security.
 
 
   
