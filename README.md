@@ -1,4 +1,6 @@
 #### Hi there! 👋
+<a href="https://www.youtube.com/c/infosectube?sub_confirmation=1"><img src="https://img.shields.io/website?color=red&down_message=Channel&label=YouTUbe&logo=youtube&logoColor=red&style=for-the-badge&up_message=Channel&url=https%3A%2F%2Fwww.youtube.com%2Fc%2Finfosectube%3Fsub_confirmation%3D1"></a>
+<a href="https://t.me/InfoSecTube"><img src="https://img.shields.io/website?color=blue&down_message=InfoSecTube Channel&label=Telegram&logo=telegram&logoColor=dark&style=for-the-badge&up_message=Channel&url=https%3A%2F%2Ft.me%2FInfoSecTube"></a>
 
 I'm [Saeid shirazi](https://saeidshirazi.github.io/), InfoSec Enthusiast and research MSc in E-Commerse at [IUST](https://iust.ac.ir/en) , supervised by <a href="http://www.researchgate.net/profile/mohammad-fathian" target="_blank">Dr mohammad fathian</a>. My research interest sits at the intersection of cybersecurity and AI involving data mining, machine learning, and deep learning. More specifically, it includes security and information assurance in e-commerce
 
