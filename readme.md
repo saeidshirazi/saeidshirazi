@@ -11,3 +11,9 @@
 🔍 Explore my repositories to see my projects in cybersecurity and machine learning. I'm always open to collaboration—let's connect and work together to secure the digital world!
 
 ---
+
+### Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeidshirazi)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/c/InfoSecTube)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/InfoSecTube)
